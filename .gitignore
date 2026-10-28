@@ -1,0 +1,16 @@
+# Segredos
+.env
+.env.*
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados pessoais gerados
+*.ics
+*.csv
+pe/
+downloads/
+*.pdf
+schedule_data.py
